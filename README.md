@@ -1,4 +1,4 @@
-# Big Data Aמalytics - Associative-Rule
+# Big Data Analytics - Associative-Rule
 
 Implementation of a rule based machine learning algorithm, a weakened version of Associative rule learning algorithm.
 (similar to google feature of related searches)
@@ -7,7 +7,7 @@ For each relevant query Sx, Sy, the algorithm calculates {Sx} => {Sy} with confi
 
 DataSet: Over 3.5 million searches from a Brazilian search engine.
 
-# Example results
+# Example results:
 
 ![](Examples.jpg)
 
