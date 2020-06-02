@@ -7,5 +7,5 @@ For each relevant query Sx, Sy the algorithm calculates {Sx} => {Sy} with confid
 
 DataSet: 3.5 million searches from a Brazilian search engine.
 
-![github-small]https://raw.githubusercontent.com/SapirNahmany/Associative-Rule/master/Examples.jpg)
+![](Examples.jpg)
 
