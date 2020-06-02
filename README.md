@@ -6,3 +6,6 @@ similar to google feature of related searches.
 For each relevant query Sx, Sy the algorithm calculates {Sx} => {Sy} with confidence Cxy, acoording to suppurt values.
 
 DataSet: 3.5 million searches from a Brazilian search engine.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
