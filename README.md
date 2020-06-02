@@ -8,4 +8,4 @@ For each relevant query Sx, Sy the algorithm calculates {Sx} => {Sy} with confid
 DataSet: 3.5 million searches from a Brazilian search engine.
 
 ![ExamplePic](Examples.JPEG)
-Format: ![Alt Text](url)
+
